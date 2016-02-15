@@ -29,7 +29,7 @@
 #
 
 """
-Implementation of differet BOLD signal models. Four different models are distinguished: 
+Implementation of different BOLD signal models. Four different models are distinguished: 
 
 + CBM_N: Classical BOLD Model Non-linear
 + CBM_L: Classical BOLD Model Linear
